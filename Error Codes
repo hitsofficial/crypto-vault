@@ -1,0 +1,5 @@
+Error Codes
+
+0x80001 - Could not connect to database.
+Cause: When trying to create the required database files and tables locally.
+Solution: Try loading Crypto Vault with administrative privillages and ensure that the program has writable privillages to the MyDocuments folder.
